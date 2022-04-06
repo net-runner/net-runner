@@ -1,5 +1,5 @@
 ### Hi, I'm Jan 🐲
-Sowftware Developer based in Cracow, Poland.
+Sowftware Developer coding things in Cracow, Poland.
 
 <!--
 **net-runner/net-runner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
