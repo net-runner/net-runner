@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Jan
+Sowftware Developer based in Cracow, Poland.
 
 <!--
 **net-runner/net-runner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=net-runner&show_icons=true&theme=dark)
