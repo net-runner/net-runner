@@ -1,4 +1,4 @@
-### Hi, I'm Jan
+### Hi, I'm Jan 🐲
 Sowftware Developer based in Cracow, Poland.
 
 <!--
