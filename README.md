@@ -2,7 +2,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=200&&fontAlign=30&fontAlignY=40&text=Hi%2C%20I%27m%20Jan%20%F0%9F%90%B2%&animation=fadeIn)--->
 
-Fullstack Software Engineer coding client and server sides of the web.
+Fullstack Software Engineer creating client and server sides of the web.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=net-runner&show_icons=true&theme=dark"/>
 
